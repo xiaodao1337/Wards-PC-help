@@ -1,6 +1,7 @@
 # Wards-PC-帮助
 - pc端shipping的
 - 昨夜夜观天象求神问卜，神问我你想要啥，我说我想要PC端教程。神说好 那便赐你两条神秘代码
+- https://mh-nexus.de/en/hxd/ HXD逆向工具
 - 76C7D00和7739100
 - 修改为127.0.0.1 or 指定IP
 
